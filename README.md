@@ -1,0 +1,1 @@
+This repository showcases a common, yet subtle, error in Ruby:  the unexpected `NoMethodError`. The `bug.rb` file contains code that's vulnerable to this error. The corrected version, which handles potential type mismatches gracefully, is in `bugSolution.rb`.
